@@ -44,3 +44,9 @@ https://www.youtube.com/watch?v=Z_l86xkGMJE&list=PLoRl3Ht4JOcck_LJocJIfacVFRlOfJ
 
 CoffeeMiner: Hacking WiFi to inject cryptocurrency miner to HTML requests
 http://arnaucode.com/blog/coffeeminer-hacking-wifi-cryptocurrency-miner.html
+
+A vintage 1980s DOS inspired Twitter Bootstrap theme
+https://github.com/kristopolous/BOOTSTRA.386
+
+The Ultimate Oldschool PC Font Pack (v1.0) - Documentation
+https://int10h.org/oldschool-pc-fonts/readme/
