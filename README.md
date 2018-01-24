@@ -25,6 +25,15 @@ https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-yea
 Visualising brain signals in 3D in real-time
 http://www.neuropro.ch/neurovis
 
+Improve Neural Network Generalization and Avoid Overfitting
+https://www.mathworks.com/help/nnet/ug/improve-neural-network-generalization-and-avoid-overfitting.html?s_tid=gn_loc_drop
+
+Faster R-CNN: Down the rabbit hole of modern object detection
+https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/
+
+
+
+
 # Not related to AI or HEALTH but links that are interesting
 An Interactive Introduction To Quantum Computing
 http://davidbkemp.github.io/QuantumComputingArticle/
@@ -50,3 +59,36 @@ https://github.com/kristopolous/BOOTSTRA.386
 
 The Ultimate Oldschool PC Font Pack (v1.0) - Documentation
 https://int10h.org/oldschool-pc-fonts/readme/
+
+Level up your programming skills
+http://exercism.io
+
+Learn to Code Ethereum DApps By Building Your Own Game
+https://cryptozombies.io
+
+Programming Language Cheat Sheets
+http://overapi.com
+
+Critical Reasoning for Beginners
+https://podcasts.ox.ac.uk/series/critical-reasoning-beginners
+
+SQL Injection Wiki
+https://sqlwiki.netspi.com
+
+The Best Finds on AliExpress
+https://thieve.co
+
+Fourier transforms of images
+https://plus.maths.org/content/fourier-transforms-images
+
+Faster R-CNN: Down the rabbit hole of modern object detection
+https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/
+
+How to Study: A Brief Guide
+https://www.cse.buffalo.edu//~rapaport/howtostudy.html
+
+QUANTUM COMPUTING HARDWARE TEARDOWN
+https://hackaday.com/2018/01/22/quantum-computing-hardware-teardown/
+
+How To Become A Blockchain Developer: Crash Course
+https://blockgeeks.com/guides/blockchain-developer/
