@@ -31,8 +31,11 @@ https://www.mathworks.com/help/nnet/ug/improve-neural-network-generalization-and
 Faster R-CNN: Down the rabbit hole of modern object detection
 https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/
 
+Audio Adversarial Examples
+https://nicholas.carlini.com/code/audio_adversarial_examples/
 
-
+The Matrix Calculus You Need For Deep Learning
+http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html
 
 # Not related to AI or HEALTH but links that are interesting
 An Interactive Introduction To Quantum Computing
