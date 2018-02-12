@@ -95,3 +95,6 @@ https://hackaday.com/2018/01/22/quantum-computing-hardware-teardown/
 
 How To Become A Blockchain Developer: Crash Course
 https://blockgeeks.com/guides/blockchain-developer/
+
+Teach Yourself Computer Science
+https://teachyourselfcs.com
