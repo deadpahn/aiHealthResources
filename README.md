@@ -98,3 +98,7 @@ https://blockgeeks.com/guides/blockchain-developer/
 
 Teach Yourself Computer Science
 https://teachyourselfcs.com
+
+Cloud TPU machine learning accelerators now available in beta
+https://cloudplatform.googleblog.com/2018/02/Cloud-TPU-machine-learning-accelerators-now-available-in-beta.html
+https://cloud.google.com/tpu/docs/tutorials/resnet
