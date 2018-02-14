@@ -111,3 +111,6 @@ http://apps.amandaghassaei.com/OrigamiSimulator/
 
 Physics Travel Guide
 https://physicstravelguide.com
+
+Build your own CDN
+https://pasztor.at/blog/building-your-own-cdn
