@@ -114,3 +114,6 @@ https://physicstravelguide.com
 
 Build your own CDN
 https://pasztor.at/blog/building-your-own-cdn
+
+Probabilistic Programming & Bayesian Methods for Hackers
+https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
