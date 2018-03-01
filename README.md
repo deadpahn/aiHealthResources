@@ -117,3 +117,7 @@ https://pasztor.at/blog/building-your-own-cdn
 
 Probabilistic Programming & Bayesian Methods for Hackers
 https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
+
+Introduction to Machine Learning
+https://developers.google.com/machine-learning/crash-course/ml-intro
+https://developers.google.com/machine-learning/crash-course/
