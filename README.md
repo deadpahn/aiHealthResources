@@ -121,3 +121,6 @@ https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Method
 Introduction to Machine Learning
 https://developers.google.com/machine-learning/crash-course/ml-intro
 https://developers.google.com/machine-learning/crash-course/
+
+Sirajs ML 3 month road map
+https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months
