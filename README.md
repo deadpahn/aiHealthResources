@@ -124,3 +124,6 @@ https://developers.google.com/machine-learning/crash-course/
 
 Sirajs ML 3 month road map
 https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months
+
+Visual intro to machine learning
+http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
