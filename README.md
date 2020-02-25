@@ -1,6 +1,9 @@
 # aiHealthResources
 Just a repo to keep track of all things/papers related to health innovations in the AI space.
 
+https://ai.facebook.com/blog/fastmri-leverages-adversarial-learning-to-remove-image-artifacts/
+
+
 Deep learning sharpens views of cells and genes
 https://www.nature.com/articles/d41586-018-00004-w
 
